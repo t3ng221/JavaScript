@@ -37,3 +37,8 @@ console.log(arr);
 console.log('Previous Array: '+arr)
 arr.splice(2,4);
 console.log(arr);
+
+//concat
+
+const arr2 =['s','tv','limited'];
+console.log(arr.concat(arr2));
