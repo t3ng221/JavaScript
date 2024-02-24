@@ -42,3 +42,18 @@ console.log(arr);
 
 const arr2 =['s','tv','limited'];
 console.log(arr.concat(arr2));
+console.log('Reverse 2: '+arr2.reverse());
+
+//slice and splice
+
+const arr3=[1,2,3,4,5,6];
+console.log(arr3.slice(1));
+console.log(arr3.splice(1,3));
+
+
+let arr5 = {
+    first: 'siam',
+    second: 'mim',
+    third: 190
+}
+console.log(arr5);
